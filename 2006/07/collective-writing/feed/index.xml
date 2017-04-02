@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Collective Writing</title>
+	<atom:link href="http://localhost/freelyassociating/2006/07/collective-writing/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/07/collective-writing/</link>
+	<description>THE FREE ASSOCIATION</description>
+	<lastBuildDate>Fri, 13 Nov 2015 11:17:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<item>
+		<title>By: brian</title>
+		<link>/2006/07/collective-writing/#comment-30</link>
+		<dc:creator><![CDATA[brian]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2006 14:14:00 +0000</pubDate>
+		<guid isPermaLink="false">http://freelyassociating.org/?p=18#comment-30</guid>
+		<description><![CDATA[Ah, so &lt;i&gt;that’s&lt;/i&gt; why we’ve been doing this blog. Ladies and gentlemen, the owl of Minerva has left the building...&lt;br/&gt;No, but seriously, this has been a really useful tool, and one that&#039;s been more useful the more it has been used. Note to self: blog more, whine less.]]></description>
+		<content:encoded><![CDATA[<p>Ah, so <i>that’s</i> why we’ve been doing this blog. Ladies and gentlemen, the owl of Minerva has left the building&#8230;<br />No, but seriously, this has been a really useful tool, and one that&#8217;s been more useful the more it has been used. Note to self: blog more, whine less.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

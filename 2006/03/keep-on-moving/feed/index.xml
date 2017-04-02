@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Keep on moving</title>
+	<atom:link href="http://localhost/freelyassociating/2006/03/keep-on-moving/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/03/keep-on-moving/</link>
+	<description>THE FREE ASSOCIATION</description>
+	<lastBuildDate>Fri, 13 Nov 2015 11:17:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<item>
+		<title>By: Keir</title>
+		<link>/2006/03/keep-on-moving/#comment-18</link>
+		<dc:creator><![CDATA[Keir]]></dc:creator>
+		<pubDate>Fri, 31 Mar 2006 10:54:00 +0000</pubDate>
+		<guid isPermaLink="false">http://freelyassociating.org/?p=10#comment-18</guid>
+		<description><![CDATA[Good work Brian.&lt;br/&gt;&lt;br/&gt;Big Brian Holmes (no relation) has written a good analysis here: http://www.nettime.org/Lists-Archives/nettime-l-0603/msg00047.html]]></description>
+		<content:encoded><![CDATA[<p>Good work Brian.</p>
+<p>Big Brian Holmes (no relation) has written a good analysis here: <a href="http://www.nettime.org/Lists-Archives/nettime-l-0603/msg00047.html" rel="nofollow">http://www.nettime.org/Lists-Archives/nettime-l-0603/msg00047.html</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

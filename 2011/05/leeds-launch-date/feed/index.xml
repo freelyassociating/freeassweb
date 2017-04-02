@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Leeds launch date</title>
+	<atom:link href="http://localhost/freelyassociating/2011/05/leeds-launch-date/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/05/leeds-launch-date/</link>
+	<description>THE FREE ASSOCIATION</description>
+	<lastBuildDate>Fri, 13 Nov 2015 11:17:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<item>
+		<title>By: Red Tape</title>
+		<link>/2011/05/leeds-launch-date/#comment-1644</link>
+		<dc:creator><![CDATA[Red Tape]]></dc:creator>
+		<pubDate>Thu, 19 May 2011 19:03:00 +0000</pubDate>
+		<guid isPermaLink="false">http://freelyassociating.org/?p=705#comment-1644</guid>
+		<description><![CDATA[a report of the evening can be found here:
+
+http://reallyopenuniversity.wordpress.com/2011/05/19/an-evening-of-excess-and-regeneration/]]></description>
+		<content:encoded><![CDATA[<p>a report of the evening can be found here:</p>
+<p><a href="http://reallyopenuniversity.wordpress.com/2011/05/19/an-evening-of-excess-and-regeneration/" rel="nofollow">http://reallyopenuniversity.wordpress.com/2011/05/19/an-evening-of-excess-and-regeneration/</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

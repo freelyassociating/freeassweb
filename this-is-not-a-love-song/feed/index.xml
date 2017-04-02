@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: This is not a love song</title>
+	<atom:link href="http://localhost/freelyassociating/this-is-not-a-love-song/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>THE FREE ASSOCIATION</description>
+	<lastBuildDate>Fri, 13 Nov 2015 11:17:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<item>
+		<title>By: Hey! You! Get off of my cloud! &#124; freely associating</title>
+		<link>/this-is-not-a-love-song/#comment-6489</link>
+		<dc:creator><![CDATA[Hey! You! Get off of my cloud! &#124; freely associating]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2014 11:27:20 +0000</pubDate>
+		<guid isPermaLink="false">http://freelyassociating.org/?page_id=1750#comment-6489</guid>
+		<description><![CDATA[[&#8230;] This is not a love song [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] This is not a love song [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
