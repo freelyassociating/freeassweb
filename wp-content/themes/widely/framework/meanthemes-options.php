@@ -1,3 +1,6 @@
+<?php
+    header("Content-type: text/css", true);
+?>
 /*
 */
 @import url(//fonts.googleapis.com/css?family=Raleway|Bitter);
