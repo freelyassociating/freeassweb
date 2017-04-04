@@ -1,5 +1,5 @@
 <?php
-    header("Content-type: text/css", true);
+header("Content-type: text/css; charset=utf-8", true);
 ?>
 /*
 */
